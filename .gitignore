@@ -1,0 +1,4 @@
+.user.ini
+.well-known/acme-challenge/
+.DS_Store
+Thumbs.db
